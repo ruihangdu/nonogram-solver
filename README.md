@@ -10,10 +10,10 @@ This is a Nonogram solver using simulated annealing
 python solve.py
 ~~~
 The script actually comes with a test nonogram that was hard-coded, it looks like:
-|     |1    |2    |3    |4    |5    |
-|:___:|:___:|:___:|:___:|:___:|:___:|
-|1    |#    |     |#    |#    |#    |
-|2    |     |     |     |#    |#    |
-|3    |#    |#    |     |#    |     |
-|4    |#    |#    |     |     |     |
-|5    |#    |#    |     |     |     |      
+|      |1    |2    |3    |4    |5    |
+|:____:|:___:|:___:|:___:|:___:|:___:|
+|1     |#    |     |#    |#    |#    |
+|2     |     |     |     |#    |#    |
+|3     |#    |#    |     |#    |     |
+|4     |#    |#    |     |     |     |
+|5     |#    |#    |     |     |     |      
