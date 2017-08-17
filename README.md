@@ -5,7 +5,7 @@ This is a Nonogram solver using simulated annealing
 2. What is Simulated Annealing:
   When using local search optimization, the agent is likely to be stuck in a local maximum of reward function. Simulated Annealing can help the agent get out of local maxima by allowing the agent to make a bad move with a certain probability.
   For more information about Simulated Annealing: https://en.wikipedia.org/wiki/Simulated_annealing
-To solve a Nonogram, run:
+* To solve a Nonogram, run:
 ~~~
 python solve.py
 ~~~
